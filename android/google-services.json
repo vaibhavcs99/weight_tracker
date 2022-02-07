@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828321041682",
+    "project_id": "weighttracker-c238d",
+    "storage_bucket": "weighttracker-c238d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828321041682:android:b72dc4c85bc47d8e3b77cb",
+        "android_client_info": {
+          "package_name": "com.example.weight_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828321041682-igrvcgl2h4pt2ek2jocm1homjajsel7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLuvymN5_VQ3bE0vBxxpzNJnuIvI-YhNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828321041682-igrvcgl2h4pt2ek2jocm1homjajsel7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
